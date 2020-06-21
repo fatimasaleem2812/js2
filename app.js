@@ -12,7 +12,7 @@
 // str2="hello world";
 // document.write("<br> String num 2 is hello world"); 
 // var b=str.indexOf("l");
-// document.write("the index number of n in Pakistan is :"+b);..issue
+// document.write("the index number of n in Pakistan is :"+b);
 // var str="Pakistani";
 //  document.write("<br>  String is Pakistani");
 //  var c=str.indexOf("i");
